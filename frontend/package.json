@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "Rude",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -25,5 +25,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^4.0.0",
     "prettier": "^2.0.5"
-  }
+  },
+  "description": "rude-budegt ",
+  "author": "switch"
 }
